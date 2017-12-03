@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/answerButton.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/buildingTopper.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/Button.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/ButtonFont.spritefont</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/DebugFont.spritefont</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/dirt.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/grass.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/LetterFont.spritefont</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/note.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/plaque.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/PlaqueFont.spritefont</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/porch.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/SocialMediaJAM.wav</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/transparency.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/UI.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/Wall.png</File>
+    <File>C:/Users/mebec/source/repos/Tenant-Chaos/LD40-2/Content/window.png</File>
+  </SourceFiles>
+</SourceFileCollection>
