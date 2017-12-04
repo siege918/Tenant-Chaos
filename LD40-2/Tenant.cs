@@ -164,7 +164,12 @@ namespace LD40_2
 
         public Tenant(Apartment apartment)
         {
-            double rageOdds = .005d * (apartment.AgeInMonths / 3d);
+            double rageOdds = .10d * (apartment.AgeInMonths / 3);
+
+            if (rageOdds > .25)
+            {
+                rageOdds = .25;
+            }
             Trust = 100 - (int)(apartment.AgeInMonths / 2);
             if (Trust < 50)
             {
