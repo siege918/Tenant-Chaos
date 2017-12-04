@@ -71,7 +71,6 @@ C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\bin\DesktopGL\AnyCPU\Release\LD4
 C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\bin\DesktopGL\AnyCPU\Release\LD40-2.pdb
 C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
 C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\bin\DesktopGL\AnyCPU\Release\RandomNameGeneratorLibrary.dll
-C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\obj\Release\LD40-2.csprojResolveAssemblyReference.cache
 C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\obj\Release\LD40-2.csproj.CoreCompileInputs.cache
 C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\obj\Release\LD40-2.exe.manifest
 C:\Users\mebec\source\repos\Tenant-Chaos\LD40-2\obj\Release\LD40-2.application
