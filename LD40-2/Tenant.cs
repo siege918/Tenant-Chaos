@@ -165,7 +165,7 @@ namespace LD40_2
         {
             double rageOdds;
 
-            rageOdds = .25;
+            rageOdds = .1;
             Trust = 100 - (int)(apartment.AgeInMonths / 2);
             if (Trust < 50)
             {
