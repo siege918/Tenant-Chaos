@@ -54,13 +54,13 @@ namespace LD40_2
                     "PLEASE RESPOND:",
                     "LISTEN ${CURSE}:",
                     "HEY ${CURSE}:",
-                    "${CURSE}"
+                    "Dear ${curse}:"
                 }
             },
             {4,
                 new string[]
                 {
-                    "${CURSE} ${CURSE},",
+                    "Dear ${curse} ${curse},",
                     "DEAR YOU ${CURSE},",
                     "HEY ${CURSE} ${CURSE} ${CURSE}"
                 }
@@ -111,15 +111,15 @@ namespace LD40_2
                     "PLEASE RESPOND,",
                     "WHATEVER ${CURSE},",
                     "Sincerely,",
-                    "${CURSE}"
+                    "${CURSE},"
                 }
             },
             {4,
                 new string[]
                 {
-                    "${CURSE} ${CURSE},",
+                    "Your ${curse},",
                     "FUCK YOU ${CURSE},",
-                    "FUCK YOU YOU ${CURSE} ${CURSE} ${CURSE}"
+                    "FUCK YOU YOU ${CURSE} ${CURSE} ${CURSE},"
                 }
             }
         };
@@ -128,7 +128,6 @@ namespace LD40_2
             "FUCK",
             "PISS",
             "SHIT",
-            "LOVE",
             "ASS",
             "DICK",
             "DOUCHE"
@@ -164,12 +163,9 @@ namespace LD40_2
 
         public Tenant(Apartment apartment)
         {
-            double rageOdds = .10d * (apartment.AgeInMonths / 3);
+            double rageOdds;
 
-            if (rageOdds > .25)
-            {
-                rageOdds = .25;
-            }
+            rageOdds = .25;
             Trust = 100 - (int)(apartment.AgeInMonths / 2);
             if (Trust < 50)
             {
